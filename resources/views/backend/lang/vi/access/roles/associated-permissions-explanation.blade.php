@@ -1,0 +1,1 @@
+Permission được đánh dấu <small><strong>(D)</strong></small> nghĩa là nó có nhiều sub-permission mà sẽ tự động được check khi bạn check vào parent-permission. Bạn có thể thay đổi trong khi sửa quyền trên.
